@@ -1,0 +1,14 @@
+.bg-img{
+  background-image: url(../assets/bg.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+}
+.bg-img2{
+  background-image: url(../assets/bgimg2.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+/* scroll trigger */
